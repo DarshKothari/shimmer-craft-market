@@ -58,7 +58,7 @@ const About = () => {
             Our Legacy & Vision
           </h3>
           <p className="text-lg md:text-xl opacity-90 max-w-3xl mx-auto leading-relaxed">
-            Based in Jaipur, the heart of India's jewelry craftsmanship, our workshop combines time-honored 
+            Based in Ahmedabad, the heart of India's jewelry craftsmanship, our workshop combines time-honored 
             techniques passed down through generations with modern precision. Each piece reflects our commitment 
             to preserving Indian artisanal traditions while creating contemporary jewelry that resonates with 
             today's discerning customers. We take pride in using ethically sourced materials and supporting 
