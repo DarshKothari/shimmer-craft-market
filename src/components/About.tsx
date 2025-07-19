@@ -28,9 +28,9 @@ const About = () => {
             About Shreenathji Jewelry
           </h2>
           <p className="text-lg text-navy-light max-w-3xl mx-auto leading-relaxed">
-            Founded by master craftsman Rajesh Sharma in 2010, Shreenathji Jewelry is a family-owned business 
-            rooted in traditional Indian jewelry making techniques. With over 15 years of experience, 
-            Rajesh combines ancient artistry with contemporary designs to create pieces that celebrate 
+            Founded by master craftsman Minal in 2025, Shreenathji Jewelry is a family-owned business 
+            rooted in traditional Indian jewelry making techniques. With years of experience, 
+            Minal combines ancient artistry with contemporary designs to create pieces that celebrate 
             India's rich cultural heritage while meeting modern aesthetic preferences.
           </p>
         </div>

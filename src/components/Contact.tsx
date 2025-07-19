@@ -13,13 +13,13 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Call Us",
-      detail: "+91 98765 43210",
+      detail: "+91 9999999999",
       description: "Monday to Saturday, 10AM - 8PM"
     },
     {
       icon: MapPin,
       title: "Visit Our Studio",
-      detail: "Johari Bazaar, Jaipur, Rajasthan",
+      detail: "Johari Bazaar, Ahmedabada, Gujarat",
       description: "By appointment preferred"
     },
     {

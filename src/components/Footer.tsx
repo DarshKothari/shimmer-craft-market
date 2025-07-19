@@ -30,7 +30,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="lg:col-span-1">
             <h3 className="font-serif text-3xl font-bold text-gold mb-4">
-              Elara Jewelry
+              Shreenathji Jewelry
             </h3>
             <p className="text-white/80 mb-6 leading-relaxed">
               Handcrafted jewelry that tells your unique story. 
@@ -74,7 +74,7 @@ const Footer = () => {
         <div className="border-t border-white/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-white/70 text-sm">
-              © 2024 Elara Jewelry. All rights reserved. Crafted with love.
+              © 2025 Shreenathji Jewelry. All rights reserved. Crafted with love.
             </p>
             <div className="flex space-x-6">
               <a href="#" className="text-white/70 hover:text-gold text-sm transition-colors duration-200">
