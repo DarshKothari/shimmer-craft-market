@@ -61,7 +61,28 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				/* Custom jewelry colors */
+				gold: 'hsl(var(--gold))',
+				'gold-light': 'hsl(var(--gold-light))',
+				'rose-gold': 'hsl(var(--rose-gold))',
+				navy: 'hsl(var(--navy))',
+				'navy-light': 'hsl(var(--navy-light))'
+			},
+			backgroundImage: {
+				'gradient-gold': 'var(--gradient-gold)',
+				'gradient-luxury': 'var(--gradient-luxury)',
+				'gradient-hero': 'var(--gradient-hero)'
+			},
+			boxShadow: {
+				'luxury': 'var(--shadow-luxury)',
+				'elegant': 'var(--shadow-elegant)'
+			},
+			transitionProperty: {
+				'luxury': 'var(--transition-luxury)'
+			},
+			fontFamily: {
+				'serif': ['Playfair Display', 'serif'],
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
