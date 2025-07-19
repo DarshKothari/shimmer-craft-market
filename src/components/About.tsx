@@ -25,12 +25,13 @@ const About = () => {
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="font-serif text-4xl md:text-5xl font-bold text-navy mb-6">
-            The Art of Handcrafted Jewelry
+            About Shreenathji Jewelry
           </h2>
           <p className="text-lg text-navy-light max-w-3xl mx-auto leading-relaxed">
-            At Elara Jewelry, we believe that true beauty lies in the details. Our master craftspeople 
-            dedicate countless hours to creating pieces that not only capture light but capture hearts. 
-            Each jewelry piece is a testament to our commitment to excellence and artistic expression.
+            Founded by master craftsman Rajesh Sharma in 2010, Shreenathji Jewelry is a family-owned business 
+            rooted in traditional Indian jewelry making techniques. With over 15 years of experience, 
+            Rajesh combines ancient artistry with contemporary designs to create pieces that celebrate 
+            India's rich cultural heritage while meeting modern aesthetic preferences.
           </p>
         </div>
 
@@ -54,12 +55,14 @@ const About = () => {
 
         <div className="bg-gradient-luxury rounded-2xl p-8 md:p-12 text-center text-white">
           <h3 className="font-serif text-3xl md:text-4xl font-bold mb-6">
-            Every Piece Tells a Story
+            Our Legacy & Vision
           </h3>
           <p className="text-lg md:text-xl opacity-90 max-w-3xl mx-auto leading-relaxed">
-            From the initial sketch to the final polish, our jewelry goes through a journey of 
-            transformation. We invite you to be part of that story, to wear a piece that connects 
-            you to the ancient art of jewelry making while expressing your modern elegance.
+            Based in Jaipur, the heart of India's jewelry craftsmanship, our workshop combines time-honored 
+            techniques passed down through generations with modern precision. Each piece reflects our commitment 
+            to preserving Indian artisanal traditions while creating contemporary jewelry that resonates with 
+            today's discerning customers. We take pride in using ethically sourced materials and supporting 
+            local artisan communities.
           </p>
         </div>
       </div>

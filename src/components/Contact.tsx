@@ -7,26 +7,26 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email Us",
-      detail: "hello@elajewelry.com",
+      detail: "info@shreenathji.jewelry",
       description: "We'll respond within 24 hours"
     },
     {
       icon: Phone,
       title: "Call Us",
-      detail: "+1 (555) 123-4567",
-      description: "Monday to Friday, 9AM - 6PM"
+      detail: "+91 98765 43210",
+      description: "Monday to Saturday, 10AM - 8PM"
     },
     {
       icon: MapPin,
       title: "Visit Our Studio",
-      detail: "123 Artisan Lane, Creative District",
-      description: "By appointment only"
+      detail: "Johari Bazaar, Jaipur, Rajasthan",
+      description: "By appointment preferred"
     },
     {
       icon: Clock,
       title: "Studio Hours",
-      detail: "Mon-Fri: 9AM-6PM",
-      description: "Sat: 10AM-4PM, Sun: Closed"
+      detail: "Mon-Sat: 10AM-8PM",
+      description: "Sunday: 11AM-6PM"
     }
   ];
 

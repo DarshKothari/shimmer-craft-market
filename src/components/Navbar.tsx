@@ -19,7 +19,7 @@ const Navbar = () => {
           {/* Logo */}
           <div className="flex-shrink-0">
             <h1 className="font-serif text-2xl font-bold text-navy">
-              Elara
+              Shreenathji
             </h1>
           </div>
 

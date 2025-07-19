@@ -17,7 +17,7 @@ const Hero = () => {
       {/* Content */}
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
         <h1 className="font-serif text-5xl md:text-7xl font-bold text-navy mb-6 leading-tight">
-          Elara
+          Shreenathji
           <span className="block text-gold font-serif">Jewelry</span>
         </h1>
         <p className="text-xl md:text-2xl text-navy-light mb-8 max-w-2xl mx-auto leading-relaxed">

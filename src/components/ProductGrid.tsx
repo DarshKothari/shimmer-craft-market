@@ -8,21 +8,21 @@ const products = [
   {
     id: 1,
     name: "Golden Grace Earrings",
-    price: "$245",
+    price: "₹18,500",
     image: goldEarrings,
     description: "Handcrafted gold earrings with intricate detailing"
   },
   {
     id: 2,
     name: "Silver Serenity Bracelet",
-    price: "$185",
+    price: "₹12,500",
     image: silverBracelet,
     description: "Elegant silver bracelet with precious gemstones"
   },
   {
     id: 3,
     name: "Diamond Essence Ring",
-    price: "$850",
+    price: "₹65,000",
     image: diamondRing,
     description: "Stunning diamond ring with handcrafted band"
   }
